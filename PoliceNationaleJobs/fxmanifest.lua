@@ -1,6 +1,6 @@
 fx_version 'adamant'
 game 'gta5'
-author 'Cannes Secours Simulation | Verappix'
+author 'USER LEAK'S FR SHOP'
 
 client_scripts {
     "src/RMenu.lua",
